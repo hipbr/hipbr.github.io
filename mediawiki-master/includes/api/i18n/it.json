@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Nivit"
+		]
+	},
+	"apihelp-query+recentchanges-example-simple": "Elenco modifiche recenti.",
+	"apihelp-upload-example-url": "Carica da un URL.",
+	"api-help-parameters": "{{PLURAL:$1|Parametro|Parametri}}:",
+	"api-help-param-deprecated": "Deprecato.",
+	"api-help-param-required": "Questo parametro è obbligatorio.",
+	"api-help-param-default": "Predefinito: $1",
+	"api-help-param-default-empty": "Predefinito: <span class=\"apihelp-empty\">(vuoto)</span>",
+	"api-help-param-no-description": "<span class=\"apihelp-empty\">(nessuna descrizione)</span>",
+	"api-help-examples": "{{PLURAL:$1|Esempio|Esempi}}:",
+	"api-credits-header": "Crediti"
+}
